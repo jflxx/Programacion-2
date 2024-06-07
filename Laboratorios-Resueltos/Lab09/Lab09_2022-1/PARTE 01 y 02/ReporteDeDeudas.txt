@@ -1,0 +1,116 @@
+REPORTE DE DEUDAS
+================================================================================
+71984468       IPARRAGUIRRE VILLEGAS NICOLAS EDILBERTO
+--------------------------------------------------
+Descuento:     25.000%   
+Total:    73.500
+Cantidad de Pedidos: 6
+
+29847168       ALDAVE ZEVALLOS ROSARIO
+--------------------------------------------------
+Descuento:     25.000%   
+Total:    69.375
+Cantidad de Pedidos: 7
+
+79475585       RETTO ARCA ANNIE MAGDA
+--------------------------------------------------
+Flete:    10.000% 
+Total:    82.500
+Cantidad de Pedidos: 6
+
+91897732       GAMARRA ALCOCER VIRGINIA
+--------------------------------------------------
+Flete:    10.000% 
+Total:    118.800
+Cantidad de Pedidos: 7
+
+33397650       RONDON EGUSQUIZA CARMELA VALENTINA
+--------------------------------------------------
+Flete:    10.000% 
+Total:    273.900
+Cantidad de Pedidos: 12
+
+83236386       RIVERO CORRALES JUAN FERNANDO
+--------------------------------------------------
+Descuento:     10.000%   Flete:    5.000% 
+Total:    60.325
+Cantidad de Pedidos: 6
+
+32821689       ZAVALETA EPIQUEN CARMEN ZKENIA
+--------------------------------------------------
+Descuento:     10.000%   Flete:    5.000% 
+Total:    78.375
+Cantidad de Pedidos: 7
+
+45783712       POZO CHUNG RAFAEL DEL
+--------------------------------------------------
+Descuento:     50.000%   
+Total:    47.500
+Cantidad de Pedidos: 5
+
+11118888       PEREZ ALBELA COSSIO JOSE LUIS ALBERTO
+--------------------------------------------------
+Descuento:     50.000%   
+Total:    0.000
+Cantidad de Pedidos: 0
+
+48184351       LOPEZ JAUREGUI ROLANDO
+--------------------------------------------------
+Descuento:     10.000%   Flete:    5.000% 
+Total:    271.700
+Cantidad de Pedidos: 9
+
+33713901       VILLEGAS CASTRO SOFIA VIRGINIA
+--------------------------------------------------
+Descuento:     10.000%   Flete:    5.000% 
+Total:    145.350
+Cantidad de Pedidos: 8
+
+76388967       GONZALES QUIO ISABEL
+--------------------------------------------------
+Flete:    5.000% 
+Total:    58.800
+Cantidad de Pedidos: 5
+
+81114108       ZAMBRANO SHIRAKAWA WILMER
+--------------------------------------------------
+Flete:    5.000% 
+Total:    196.875
+Cantidad de Pedidos: 10
+
+57263719       PRADO TORREALBA CARMEN JANET
+--------------------------------------------------
+Flete:    5.000% 
+Total:    129.150
+Cantidad de Pedidos: 7
+
+79140840       TORREALBA ARCA VICTORIA GLENDA
+--------------------------------------------------
+Descuento:     30.000%   
+Total:    92.050
+Cantidad de Pedidos: 7
+
+71378466       MIYAKE CARO HENRRY EDGAR
+--------------------------------------------------
+Descuento:     30.000%   
+Total:    84.700
+Cantidad de Pedidos: 7
+
+17913944       PALOMARES SANTISTEBAN HENRRY
+--------------------------------------------------
+Descuento:     20.000%   Flete:    5.000% 
+Total:    137.275
+Cantidad de Pedidos: 11
+
+62566305       ROMERO ALFARO MONICA JOHANA
+--------------------------------------------------
+Descuento:     20.000%   Flete:    5.000% 
+Total:    124.100
+Cantidad de Pedidos: 4
+
+46462527       LOYOLA MORI NICOLAS FERNANDO
+--------------------------------------------------
+Descuento:     50.000%   
+Total:    74.000
+Cantidad de Pedidos: 14
+

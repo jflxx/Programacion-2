@@ -1,0 +1,169 @@
+20230212       41379     FLUNARICINA 10 MG T20                             5       8.0325     41379                 Urologia
+20230213       30796     PROPANOLOL 40 MG C/20 TAB                         5       220.32  51642950          Miranda/Alfonso
+20230213       53846     CLENBUTEROL .02MG 50T                             17     655.452  51642950          Miranda/Alfonso
+20220820       61039     NISTATINA GI C/12 TAB                             28     2069.17     61039             Dermatologia
+20220820       22232     LEVETIRACETAM                                     21      1383.2     22232             Dermatologia
+20230318       17804     PIROXICAM 30 GM CRA                               5        41.31  54815159           Patino/Delicia
+20230318       75565     MICONAZOL 20 GR CRA                               26     984.555  54815159           Patino/Delicia
+20230318       36711     TIBOLONA 2.5MG 30T                                16     1090.58  54815159           Patino/Delicia
+20230318       46000     HIDROX--MAGNESIO+ALUMINIO 240ML                   33     1563.93     46000            Traumatologia
+20220906       72061     DEFLAZACORT 30MG 10T                              28     1156.68  15290194      Hernandez/Guillermo
+20220823       79996     LANSOPRAZOL 15 MG C/14                            10     254.745  35347567              Sedano/Elia
+20221127       34066     SULINDACO 200MG/20 TAB                            6      251.991  52313890            Rivero/Wilver
+20221127       85641     TAMOXIFENO 10MG 30T                               30     819.315     85641              Ginecologia
+20221127       85641     TAMOXIFENO 10MG 30T                               5      136.552     85641              Ginecologia
+20221026       15098     LISINA CLOHRIDRATO 125MG T10                      17     1123.63  93282118          Zambrano/Ofelia
+20220801       67784     LOSARTAN 50MG C/10T                               20     1397.66     67784             Dermatologia
+20220804       82528     LORATADINA T/10 10MG                              35     646.616     82528               Neumologia
+20220915       77466     RAMIPRIL 16 TAB/5 MG                              6       28.917  93939698        Henriquez/Silvana
+20220901       97465     GLIBENCLAMIDA 5 MG C/50                           27     92.9475  86988155            Cerna/Cinthia
+20220804       85641     TAMOXIFENO 10MG 30T                               17     464.279     85641             Dermatologia
+20220901       24733     CALCIO+MAGNESIO 30T                               11     618.503     24733                Pediatria
+20230228       61039     NISTATINA GI C/12 TAB                             13     960.687     61039            Traumatologia
+20220913       53846     CLENBUTEROL .02MG 50T                             16     616.896  37282858             Soma/Lourdes
+20221129       18672     TINIDAZOL 500MG 8T                                5       61.965  93939698        Henriquez/Silvana
+20220803       57269     SIMVASTATINA 10 MG C14                            34      936.36  95656771            Raffo/Rolando
+20230418       92517     ISOCONAZOL CR 20GR GI                             5       48.195  57182371         Moscoso/Fiorella
+20230327       50450     SERTRALINA 50MG C/14 T                            12     727.056  93231760         Zarate/Alexander
+20220801       85325     AMOXICILINA 250MG C12                             5      265.073     85325                Pediatria
+20230124       28992     ALUMUMINIO+MAGNESIO SUSP 240ML                    19     1159.89     28992        Gastroenterologia
+20230202       59121     DESLORATADINA 5MG 10T                             8      528.768  36471787              Pena/Glenda
+20220821       70116     LACTULOSA 125ML                                   35      674.73  45914393           Lozada/Antonio
+20220801       61039     NISTATINA GI C/12 TAB                             5      369.495     61039                Pediatria
+20220801       14962     HIERRO DEXTRANO AMP4                              27     1022.42  53420926               Prado/Juan
+20220801       60685     NITROFURANTOINA C40 100MG                         26     1963.14     60685                Pediatria
+20230418       60685     NITROFURANTOINA C40 100MG                         26     1963.14     60685                 Urologia
+20230315       89839     ACIDO MEFENAMICO 500MG C10 TAB                    20     1397.66     89839                Oncologia
+20220827       65536     NEOM/POLIMIX/GRAMIC 15 ML GTS                     18      28.917     65536                Pediatria
+20230116       28892     GLIMEPIRIDA 2MG C30                               32     796.824     28892              Cardiologia
+20230223       85865     PLANTAGO PSYLLIUM 400GR. GI                       15     120.488     85865           Endocrinologia
+20220808       94415     PRAVASTATINA 10 MG C/15                           21     1171.14  13731806       Salamanca/Virginia
+20221017       94415     PRAVASTATINA 10 MG C/15                           35      1951.9  62126128           Durand/Enrique
+20221108       73972     VITAMINA E 400 MG C90 CAPS                        8      352.512  22598563             Sueldo/Adria
+20221108       63555     FAMOTIDINA 20MG 30C                               28     1147.04     63555             Dermatologia
+20230330       68539     METENAMINA 30T 500MG                              16      77.112     68539              Cardiologia
+20220901       89839     ACIDO MEFENAMICO 500MG C10 TAB                    15     1048.24     89839               Neumologia
+20230407       58200     FLUCONAZOL 150MG. 1C                              31     1408.67  20371464              Lozada/Heli
+20230310       70226     CALCIO+VITAMINA D SUSP                            25     808.988  32538825             Hijar/Martin
+20230116       90198     NITROFURAL 6MG 6/OV                               20      716.04  35852072          Jauregui/Victor
+20220809       68346     TOLBUTAMIDA 50T 500MG                             18     173.502     68346            Traumatologia
+20230318       70807     LINCOMICINA 600 MG INY C/3                        14     260.253  93282118          Zambrano/Ofelia
+20230403       11370     KETOROLACO 4T 30MG SUBLINGUAL                     5      10.3275  35606314             Mercado/Elia
+20230403       43222     AMBROXOL GOTAS 30ML                               21     219.287     43222             Oftalmologia
+20221026       12388     PROTEINAS+CREATINA 500 GR 30T                     11     681.615  57182371         Moscoso/Fiorella
+20221026       92517     ISOCONAZOL CR 20GR GI                             13     125.307  57182371         Moscoso/Fiorella
+20220827       57036     OXOLAMINA JBE 100ML                               14     433.755  62126128           Durand/Enrique
+20230318       42861     BENCIDAMIDA CRA 5% 60GR                           25     562.275     42861            Traumatologia
+20220806       93578     SUCRALFATO 40 TAB/1G                              13     581.783  65912822            Camacho/Ydali
+20230418       65667     SUBSALICILATO/BISMUTO SUSP 120ML                  28     1619.35     65667              Ginecologia
+20221206       28892     GLIMEPIRIDA 2MG C30                               14     348.611     28892              Ginecologia
+20220916       61039     NISTATINA GI C/12 TAB                             7      517.293     61039        Gastroenterologia
+20220826       76238     BEZOCAINA 10GR GEL                                23     1060.98  68114999                Rios/Ines
+20221025       62302     BEZAFIBRATO 200MG C/30TAB                         30     1180.78     62302               Neumologia
+20230114       16681     SIBUTRAMINA 10 MG C15                             34     608.634  12484697             Diaz/Enrique
+20230114       36711     TIBOLONA 2.5MG 30T                                10     681.615  12484697             Diaz/Enrique
+20230330       88266     PREDNISONA 20MG C30 TAB GI                        16     1118.12     88266        Gastroenterologia
+20230303       70024     METILDOPA 250 MG 30 TAB                           29     1617.29  58643376           Arroyo/Natalia
+20221027       25684     DEXAMETASONA 0.5MG T/30                           14      1113.3     25684                Pediatria
+20230407       13364     MULTIVITAMINAS Y MINERALES C60                    7       77.112  35347567              Sedano/Elia
+20220828       22306     NIMESULIDA 25MG 20ML                              26     1879.61     22306             Oftalmologia
+20230206       61508     DEXTROMETORFANO 300MG JBE 120 ML                  6      24.0975     61508             Oftalmologia
+20221022       30796     PROPANOLOL 40 MG C/20 TAB                         26     1145.66  51465986                 Sam/Ines
+20221022       34080     ELECTROLIT FRESA 500ML                            14     684.369  51465986                 Sam/Ines
+20220819       91653     SAL DE UVAS PICOT                                 21     694.008  71422479          Lozada/Felicita
+20230212       22842     AMIKACINA 500MG C/1 AMP                           12     539.784     22842                Geriatria
+20230307       84771     BETAMETASONA CREMA 30GR                           8      295.596     84771                Pediatria
+20221217       39779     OMEPRAZOL 20 MG C/14                              33     2272.05  59561864          Rosemberg/Julio
+20230328       42856     FELODIPINO 5 MG 20T                               28     269.892     42856              Cardiologia
+20230328       36822     CLARITROMICINA 125MG SUSP                         15     113.602  77324146            Moscoso/Janet
+20230328       33276     INDOMETACINA C30                                  16     143.208  77324146            Moscoso/Janet
+20220802       33390     CORTILONA CRA 30GR                                8      187.272  80694546           Ramirez/Karina
+20220805       60086     METAMISOL 500 MG T10                              35     787.185     60086                Pediatria
+20230403       44215     DICICLOVERINA 10MG 30T                            15     469.901     44215                 Urologia
+20230127       81960     CEFALEXINA 500MG C/20 CAP                         17      1310.9     81960                Oncologia
+20221229       59395     VITAMINICO GERIATRICO C30                         12     156.978  72973662            Vargas/Daniel
+20220825       62302     BEZAFIBRATO 200MG C/30TAB                         6      236.156     62302              Cardiologia
+20220823       30796     PROPANOLOL 40 MG C/20 TAB                         31     1365.98  27709566               Ortiz/Raul
+20221220       70226     CALCIO+VITAMINA D SUSP                            24     776.628  45914393           Lozada/Antonio
+20221220       67784     LOSARTAN 50MG C/10T                               19     1327.77     67784           Endocrinologia
+20230206       60685     NITROFURANTOINA C40 100MG                         33     2491.68     60685              Ginecologia
+20220829       39172     IBUPROFENO 400MG T10                              27     910.886  30246960           Escalante/Ines
+20221215       37007     DIFENHIDRAMINA 250MG JBE 120ML                    31     1195.24  61061535              Solis/Maria
+20221122       36822     CLARITROMICINA 125MG SUSP                         11     83.3085  77324146            Moscoso/Janet
+20221122       22306     NIMESULIDA 25MG 20ML                              17     1228.97     22306               Neumologia
+20230126       58200     FLUCONAZOL 150MG. 1C                              35     1590.44  85395219         Fuentes/Patricia
+20230124       60509     AMPICILINA 125MG SUSP 90ML                        33        1829     60509              Cardiologia
+20220809       53166     ASTEMIZOL SUSP 200MG                              32     154.224  72330000             Vega/Carmela
+20220901       44215     DICICLOVERINA 10MG 30T                            12     375.921     44215            Traumatologia
+20221127       57036     OXOLAMINA JBE 100ML                               34      1053.4  62287143             Wong/Beatriz
+20221206       76360     DICLOXACILINA 250 MG C20                          13     340.119  35852072          Jauregui/Victor
+20220821       16813     VANCOMICINA 500MG SOL INY                         33     159.043  45201670           Guevara/Milena
+20220820       60888     CAPTOPRIL 25MG 30T                                16     115.668     60888             Dermatologia
+20220803       47697     CLINDAMICINA 300 MG C/16                          15     204.829     47697            Traumatologia
+20221204       46000     HIDROX--MAGNESIO+ALUMINIO 240ML                   15     710.876     46000            Traumatologia
+20220819       76360     DICLOXACILINA 250 MG C20                          23     601.749  68114999                Rios/Ines
+20220803       91282     LEVONORGESTREL 1.5MG /1 TAB                       21     115.668  59561864          Rosemberg/Julio
+20230328       84555     PARACETAMOL 300MG C/5 SUP                         26     104.423     84555        Gastroenterologia
+20220829       63555     FAMOTIDINA 20MG 30C                               31     1269.94     63555             Dermatologia
+20220817       26754     SILDENAFIL 50MG C/1-TAB                           16     1028.16     26754               Neumologia
+20220815       28219     NITAZOXANIDA 200 MG T6                            18     1402.47     28219            Traumatologia
+20220826       42053     TRETINOINA 30G CREMA 0.05%                        35     337.365     42053        Gastroenterologia
+20221004       60888     CAPTOPRIL 25MG 30T                                20     144.585     60888             Dermatologia
+20221004       98261     ACICLOVIR 200 MG C/25 CPR                         35     2000.09  81539774             Alfaro/Erick
+20221004       24522     LEVOFLOXACINO 500MG C/7 TAB                       11     450.623     24522             Dermatologia
+20230206       34027     DANAZOL 100MG 50T                                 33     2113.01  85395219         Fuentes/Patricia
+20220817       77203     ONDANSETRON 8MG C10T                              9      588.668  36934113           Serrano/Arturo
+20230212       17804     PIROXICAM 30 GM CRA                               17     140.454  54815159           Patino/Delicia
+20230212       30796     PROPANOLOL 40 MG C/20 TAB                         15      660.96  54815159           Patino/Delicia
+20220830       79851     CEFOTAXIMA 1GR IM                                 32     2181.17  80694546           Ramirez/Karina
+20220829       59121     DESLORATADINA 5MG 10T                             5       330.48  54815159           Patino/Delicia
+20220901       68860     METFORMINA 850MG T30                              29      1630.6     68860              Ginecologia
+20220816       86828     FENAZOPIRIDINA 100 MG C/20 TAB                    15     457.852     86828                Geriatria
+20221215       53846     CLENBUTEROL .02MG 50T                             27     1041.01  51465986                 Sam/Ines
+20230404       67784     LOSARTAN 50MG C/10T                               34     2376.01     67784        Gastroenterologia
+20220801       86451     TRIMEBUTINA 100MG/5ML SUSP                        34     682.763     86451              Cardiologia
+20221001       39088     NORFLOXACINO T20 400MG                            10       96.39  93961840       Pairazaman/Tatiana
+20221027       67784     LOSARTAN 50MG C/10T                               5      349.414     67784                Pediatria
+20230426       22306     NIMESULIDA 25MG 20ML                              22     1590.44     22306                 Urologia
+20220906       65536     NEOM/POLIMIX/GRAMIC 15 ML GTS                     25     40.1625     65536                Oncologia
+20230411       62302     BEZAFIBRATO 200MG C/30TAB                         24     944.622     62302                Pediatria
+20220830       12388     PROTEINAS+CREATINA 500 GR 30T                     27     1673.06  20371464              Lozada/Heli
+20230209       41403     VITAMINAS Y MINERALES 30-30T                      34     1392.84     41403           Endocrinologia
+20230116       16055     AMBROXOL C/20 TAB                                 12     446.148  65912822            Camacho/Ydali
+20220810       73972     VITAMINA E 400 MG C90 CAPS                        29     1277.86  22598563             Sueldo/Adria
+20220810       79996     LANSOPRAZOL 15 MG C/14                            23     585.913  22598563             Sueldo/Adria
+20220810       84771     BETAMETASONA CREMA 30GR                           4      147.798     84771              Ginecologia
+20230228       57036     OXOLAMINA JBE 100ML                               10     309.825  62126128           Durand/Enrique
+20221229       34070     FEXOFENADINA C/10 180MG                           18      1065.8  51873364            Calixto/Erick
+20220808       74924     TAMSULOSINA 0.4 MG CAPS 20                        33     999.702  13731806       Salamanca/Virginia
+20220820       95540     NAPROXENO 500 MG C/10 TAB                         8      181.764  77440060        Escalante/Emigdio
+20220806       44253     PROGESTERONA+ESTRADIOL 50/5 AMP                   26     898.034     44253              Cardiologia
+20230216       58252     KETOTIFENO SOL 120ML                              30     846.855  51642949          Miranda/Alfonso
+20220802       72969     ISOSORBIDE 10MG T/20                              21     997.636  61061535              Solis/Maria
+20221030       27016     ACECLOFENACO 100MG 10T                            24     1156.68     27016        Gastroenterologia
+20220909       75565     MICONAZOL 20 GR CRA                               31     1173.89  99891737         Contreras/Johana
+20221026       11592     TERBINAFINA 1% CRA 20 GR                          24     1321.92  90367684            Sinche/Yvonne
+20221002       31189     CEFADROXILO 500MG C/16CAP                         15      495.72  93961840       Pairazaman/Tatiana
+20220814       27447     OXIDO DE ZINC TUBO PASTA 30GR                     10     562.275     27447            Traumatologia
+20220829       96031     CETIRIZINA 10 MG TABS C/10                        10      371.79  32538825             Hijar/Martin
+20221122       42053     TRETINOINA 30G CREMA 0.05%                        9       86.751     42053              Ginecologia
+20221122       36711     TIBOLONA 2.5MG 30T                                5      340.808  54815159           Patino/Delicia
+20221122       75565     MICONAZOL 20 GR CRA                               21     795.218  54815159           Patino/Delicia
+20220827       49644     HIDROCORTISONA CRA 30GR                           26     1816.95     49644              Ginecologia
+20230318       30796     PROPANOLOL 40 MG C/20 TAB                         29     1277.86  27709566               Ortiz/Raul
+20220819       67784     LOSARTAN 50MG C/10T                               9      628.945     67784             Dermatologia
+20230404       39088     NORFLOXACINO T20 400MG                            9       86.751  93939698        Henriquez/Silvana
+20220829       81960     CEFALEXINA 500MG C/20 CAP                         5       385.56     81960            Traumatologia
+20220829       44215     DICICLOVERINA 10MG 30T                            28     877.149     44215            Traumatologia
+20220829       55021     AMOXICILINA 500MG/5ML SUSP                        21     1402.47  36934113           Serrano/Arturo
+20220829       86828     FENAZOPIRIDINA 100 MG C/20 TAB                    33     1007.28     86828            Traumatologia
+20230330       26920     HIDRALAZINA 20T 10MG                              20     851.445     26920        Gastroenterologia
+20230327       26754     SILDENAFIL 50MG C/1-TAB                           18     1156.68     26754             Dermatologia
+20220814       39088     NORFLOXACINO T20 400MG                            9       86.751  15290194      Hernandez/Guillermo
+20220829       62008     LISINOPRIL T/30 10 MG                             13     219.287     62008            Traumatologia
+20220914       77203     ONDANSETRON 8MG C10T                              34     2223.86  86988155            Cerna/Cinthia
+20230418       68860     METFORMINA 850MG T30                              11     618.503     68860             Oftalmologia
+20230328       89528     CLORMADINONA 2MG 20T                              18     231.336     89528                 Urologia
+20230111       22553     FLUCINOLONA+NEOMICINA CRA 30G                     13     480.344     22553              Ginecologia
+20230111       85325     AMOXICILINA 250MG C12                             24     1272.35     85325              Ginecologia
+20230111       74924     TAMSULOSINA 0.4 MG CAPS 20                        31     939.114  13731806       Salamanca/Virginia
